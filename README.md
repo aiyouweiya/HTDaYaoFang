@@ -10,4 +10,14 @@
 
 ### 截图
 
-<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/login.png?raw=true" align="middle"/>
+
+
+<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/login.png?raw=true"/>
+
+<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/sale_main.png?raw=true"/>
+
+<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/garage.png?raw=true"/>
+
+<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/update_yao.png?raw=true"/>
+
+<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/person.png?raw=true"/>
