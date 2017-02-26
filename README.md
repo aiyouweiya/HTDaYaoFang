@@ -10,4 +10,4 @@
 
 ### 截图
 
-<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/login.png?raw=true" align="center"/>
+<img src="https://github.com/aiyouweiya/HTDaYaoFang/blob/master/screenshot/login.png?raw=true" align="middle"/>
